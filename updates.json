@@ -1,0 +1,11 @@
+{
+  "lastversion": 1,
+  "patches": [
+    {
+      "version": 1,
+      "files": [
+        "patch1.gpf"
+      ]
+    }
+  ]
+}
