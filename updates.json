@@ -11,7 +11,8 @@
       "version": 2,
       "files": [
         "patch2.gpf",
-        "data/readme.txt"
+        "data/readme.txt",
+        "invite.txt"
       ]
     }
   ]
