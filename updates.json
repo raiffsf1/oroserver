@@ -1,10 +1,17 @@
 {
-  "lastversion": 1,
+  "lastversion": 2,
   "patches": [
     {
       "version": 1,
       "files": [
         "patch1.gpf"
+      ]
+    },
+    {
+      "version": 2,
+      "files": [
+        "patch2.gpf",
+        "data/readme.txt"
       ]
     }
   ]
